@@ -1,4 +1,2 @@
 # Računalniški praktikum
-Ustvari novo datoteko: Ctrl+N
-Zapre datoteko: Ctrl+W
-Izbriše vrsto: Ctrl+Shift+K
+Ustvari novo datoteko: Ctrl+N, zapre datoteko: Ctrl+W, izbriše vrsto: Ctrl+Shift+K
