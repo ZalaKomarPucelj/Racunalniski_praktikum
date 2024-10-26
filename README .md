@@ -10,8 +10,10 @@
 - *Izreži* označeno v odložišče: Ctrl+X
 - *Prilepi* vsebino odložišča: Ctrl+V
 - Ustvari novo datoteko: Ctrl+N
-- Zapre datoteko: Ctrl+W
-- Izbriše vrsto: Ctrl+Shift+K
+- Zapri datoteko: Ctrl+W
+- Izbriši vrsto: Ctrl+Shift+K
+
+
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
